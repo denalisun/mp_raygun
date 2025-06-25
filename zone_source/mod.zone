@@ -1,0 +1,11 @@
+>game,T6
+>name,mod
+
+localize,mod
+
+weapon,ray_gun_mp
+script,scripts/mp/mp_raygunscript.gsc
+
+stringtable,mp/statstable.csv
+
+soundbank,mod.all
