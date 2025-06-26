@@ -1,8 +1,14 @@
 >game,T6
 >name,mod
 
+ignore,common_mp
+
 localize,mod
 
+image,menu_mp_weapons_raygun
+material,menu_mp_weapons_raygun
+image,menu_mp_weapons_raygun_big
+material,menu_mp_weapons_raygun_big
 weapon,ray_gun_mp
 script,scripts/mp/mp_raygunscript.gsc
 

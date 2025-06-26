@@ -13,7 +13,7 @@ set MOD_NAME=mp_raygun
 if %ERRORLEVEL% NEQ 0 pause
 set err=%ERRORLEVEL%
 
-powershell -Command "Compress-Archive -Force -Path scripts,weapons,images,sound -DestinationPath mod.zip"
+powershell -Command "Compress-Archive -Force -Path scripts,weapons,images,sound,materials -DestinationPath mod.zip"
 powershell -Command "Rename-Item -Path mod.zip -NewName mod.iwd"
 
 if %err% EQU 0 (
