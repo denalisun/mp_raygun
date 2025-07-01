@@ -9,9 +9,17 @@ image,menu_mp_weapons_raygun
 material,menu_mp_weapons_raygun
 image,menu_mp_weapons_raygun_big
 material,menu_mp_weapons_raygun_big
+camo,camo_raygun
 weapon,ray_gun_mp
-script,scripts/mp/mp_raygunscript.gsc
+weapon,raygun_mark2_mp
+weapon,pulsar_mp
 
+//camo,camo_mp40
+weapon,mp40_mp
+
+script,scripts/mp/_onslaught_weapons.gsc
+
+// only for debug
 stringtable,mp/statstable.csv
 
 soundbank,mod.all

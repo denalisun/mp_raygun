@@ -2,10 +2,16 @@ VERSION             "1"
 CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
-REFERENCE           WEAPON_RAYGUN
-LANG_ENGLISH        "Ray Gun"
-
 REFERENCE           WEAPON_RAYGUN_DESC
 LANG_ENGLISH        "The one and only constructed by Dr. Porter himself."
+
+REFERENCE           WEAPON_PULSAR
+LANG_ENGLISH        "Pulsar E-5.56"
+
+REFERENCE           WEAPON_MP40
+LANG_ENGLISH        "MP-40"
+
+REFERENCE           WEAPON_MP40_DESC
+LANG_ENGLISH        "German submachine gun with high power. Effective at close range."
 
 ENDMARKER

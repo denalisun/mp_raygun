@@ -6,21 +6,19 @@ Cold War mode in BO2
 	- Zombies come in "waves" (rounds)
 
 - Weapons
-	- Ray Gun
+	- Ray Gun ✅
 	- Ray Gun Mk2
-	- Jet Gun
-		- PaP name: "Notus Vacuum"
-	- Pulsar E-5.56
-		- Storm PSR Model
+	- Pulsar E-5.56 (Storm PSR)
 		- Wunderwaffe clone made at Broken Arrow
 			- Attempted to one-up Group 935 after WW2
 		- 160 RPM
+			- 220 when PaPed
 		- 20 ammo / 80 stock
 			- 45 / 180 (papped)
-		- 1300 damage
-			- 2300 when PaPed
-			- Spreads to 2-3 zombies
+		- Electrifies 2-5 zombies on hit
 		- PaP name: "Zeus' Roar"
+	- MP-40 ✅
+	- STG-44
 
 - Difficulties
 	- Easy
